@@ -1,0 +1,43 @@
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+#include <stack>
+#include <string>
+using namespace std;
+
+int main() {
+    int q;
+    cin >> q;
+    
+    string s = "";
+    stack<string> history;
+    
+    while(q--) {
+        int type;
+        cin >> type;
+        
+        if (type == 1) {
+            string w;
+            cin >> w;
+            history.push(s);
+            s += w;
+        } else if (type == 2) {
+            int k;
+            cin >> k;
+            history.push(s);
+            s.erase(s.length() - k);
+        } else if (type == 3) {
+            int k;
+            cin >> k;
+            cout << s[k - 1] << endl;
+        } else if (type == 4) {
+            if (!history.empty()) {
+                s = history.top();
+                history.pop();
+            }
+        }
+    }
+    return 0;
+}
