@@ -4,19 +4,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Sophomore ECE Student at Mepco Schlenk Engineering College,Sivakasi
 -------------------------------------------------------------------
 
-# PYTHON-HACKERRANK SOLUTIONS 
 
-"A collection of clean, optimized Python 3 solutions for HackerRank challenges, focusing on Pythonic idioms, algorithmic efficiency, and readable code structure."
+# DATA STRUCTURES -HACKERRANK SOLUTIONS 
+
+"A collection of HackerRank Data Structures solutions. Structured by category and optimized for performance. 🧠💻 #DataStructures #Algorithms #HackerRank."
 
 
 ## Acknowledgements
 
- - [Special thanks to the HackerRank Python Domain for the structured learning path.](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Gratitude to the developers of the libraries used in these solutions .
+ - [HackerRank – For providing a structured environment to master complex data structures like Trees, Graphs, and Linked Lists.](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [CLRS (Introduction to Algorithms) – For being the definitive guide to understanding the logic behind these implementations.
 ](https://github.com/matiassingers/awesome-readme)
- - [Shoutout to fellow developers whose blog posts and tutorials helped me master complex concepts like Regex and Decorators.](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [The Coding Community – For the invaluable discussions on time and space complexity that helped me optimize these solutions.](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
-"🚀 Efficient Python solutions for HackerRank challenges. Categorized by domain for easy navigation and reference."
+
+"🚀 Efficient Data Structure solutions for HackerRank challenges. Categorized by domain for easy navigation and reference."
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [Hackerrank](http://www.hackerrank.com/profile/meajayy3)
